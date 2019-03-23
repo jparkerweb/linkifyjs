@@ -40,8 +40,8 @@ node_modules
 # Build files
 build
 !test/qunit/build
-dist
-lib
+#dist
+#lib
 vendor
 
 # IntelliJ
